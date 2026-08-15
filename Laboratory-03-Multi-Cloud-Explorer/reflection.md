@@ -1,14 +1,16 @@
-# Laboratory Activity 3: Multi-Cloud Explorer
+# Mission 3 Reflection
 
-## Student: Jolo Castillo Vallejos
-## Course/Section: BS Information Technology – [4k]
+## 1. Which cloud platform impressed you the most?
+[Write 2-3 paragraphs about which platform impressed you]
 
----
+## 2. What similarities exist among AWS, Azure, and GCP?
+[Write 2-3 paragraphs about their similarities]
 
-## Linux System Investigation Results
+## 3. How do business requirements influence cloud platform selection?
+[Write 2-3 paragraphs about business requirements]
 
-### Commands Used and Outputs
+## 4. What did you learn from acting as a Cloud Solutions Consultant?
+[Write 2-3 paragraphs about your learning]
 
-#### 1. Operating System
-```bash
-$ cat /etc/os-release
+## 5. How has your GitHub Cloud Computing Portfolio improved?
+[Write 2-3 paragraphs about your portfolio]
