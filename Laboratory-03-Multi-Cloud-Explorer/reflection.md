@@ -1,16 +1,14 @@
-# Laboratory 03 Reflection
+# Laboratory Activity 3: Multi-Cloud Explorer
 
-## Key Learnings
-*Document your key learnings from this laboratory activity here.*
+## Student: Jolo Castillo Vallejos
+## Course/Section: BS Information Technology – [4k]
 
-## Challenges Encountered
-*Describe any challenges you faced during this laboratory.*
+---
 
-## Insights Gained
-*Share insights you gained about cloud computing platforms.*
+## Linux System Investigation Results
 
-## Future Exploration
-*What topics would you like to explore further?*
+### Commands Used and Outputs
 
-## Conclusion
-*Summarize your reflection on this laboratory experience.*
+#### 1. Operating System
+```bash
+$ cat /etc/os-release
