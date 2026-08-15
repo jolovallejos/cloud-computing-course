@@ -111,22 +111,3 @@ If this Linux server were migrated to the cloud:
 | `client-recommendations.md` | Recommendations for 4 client scenarios |
 | `reflection.md` | Mission reflection (250-350 words) |
 | `README.md` | This file - Linux investigation results |
-
----
-
-## Screenshots
-
-*[Insert screenshots of your terminal outputs here]*
-
-1. Terminal - Operating System
-2. Terminal - CPU Information
-3. Terminal - Memory Information
-4. Terminal - Disk Space
-
----
-
-## Student Information
-
-- **Name:** Jolo Castillo Vallejos
-- **Course/Section:** BS Information Technology – [4k]
-- **Date:** August 15, 2026
