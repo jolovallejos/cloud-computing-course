@@ -24,9 +24,7 @@ It contains:
 ## 📂 Repository Structure
 
 ```text
-cloud-computing-course/
-├── activities/
-├── projects/
-├── notes/
-├── reflections/
-└── README.md
+📖 Key Concepts Covered
+🎯 Learning Goals
+🔧 Tools and Technologies
+📚 Repository Purpose
